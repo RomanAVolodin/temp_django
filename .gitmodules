@@ -1,0 +1,3 @@
+[submodule "AuthServiceFastAPI_gRPCServer"]
+	path = AuthServiceFastAPI_gRPCServer
+	url = https://github.com/RomanAVolodin/AuthServiceFastAPI_gRPCServer
